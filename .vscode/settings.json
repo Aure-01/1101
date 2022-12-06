@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6b98d873-fcd3-4cea-97ad-778e4c8becfb/AppServices/subscriptions/6b98d873-fcd3-4cea-97ad-778e4c8becfb/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/la-nube11",
+    "appService.deploySubpath": "nube"
+}
